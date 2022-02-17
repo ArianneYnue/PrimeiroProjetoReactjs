@@ -1,3 +1,3 @@
 # Primeiro projeto em reactjs
 
-Arianne Michelle
+Arianne Michelle dos Santos Brito
