@@ -1,3 +1,3 @@
-# Prineiro projeto em reactjs
+# Primeiro projeto em reactjs
 
 Arianne Michelle
